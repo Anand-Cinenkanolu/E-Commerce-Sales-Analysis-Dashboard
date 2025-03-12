@@ -4,6 +4,8 @@
 
 This project focuses on analyzing and visualizing e-commerce sales data to provide actionable insights. The dataset was processed using ETL (Extract, Transform, Load) techniques, cleaned, and analyzed to create a comprehensive dashboard. The dashboard includes various visualizations such as KPI's, Line Charts, Waterfall Charts, Bar Charts, Clustered Area and Column Charts, and Pie Charts.
 
+![E-Commerce Sales Analysis (1)](https://github.com/user-attachments/assets/fffa3540-0600-4922-9ae8-c879dc0e5a5f)
+
 ## Key Features
 
 - **ETL Process**: Extracted, transformed, and loaded the data to ensure it was clean and ready for analysis.
@@ -49,3 +51,4 @@ This project focuses on analyzing and visualizing e-commerce sales data to provi
 
 ## Connect with Me
 If you found this project useful, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)!
+
