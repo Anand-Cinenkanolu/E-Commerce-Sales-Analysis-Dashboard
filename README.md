@@ -53,5 +53,5 @@ This project focuses on analyzing and visualizing e-commerce sales data to provi
 3. **Interact with the Dashboard**: Use the interactive elements (e.g., filters, slicers) to explore the data.
 
 ## Connect with Me
-If you found this project useful, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)!
+If you found this project useful, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Anand-Cinenkanolu/)!
 
